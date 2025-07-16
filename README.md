@@ -8,7 +8,7 @@
 
 Projeto consruído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://gbrlmc.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://gmcassaro.github.io/nlw-esports-explorer/)
 
 ## 🛠 Tecnologias
 
